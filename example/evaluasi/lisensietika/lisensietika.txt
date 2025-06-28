@@ -1,0 +1,28 @@
+📜 Jenis Lisensi:
+MIT License (Copyright © 2017 Bruno Rocha)
+
+📌 Analisis:
+Sifat Lisensi:
+
+Lisensi MIT adalah lisensi sumber terbuka yang sangat permisif.
+
+Memungkinkan siapa pun untuk menggunakan, menyalin, memodifikasi, mendistribusikan, bahkan menjual salinan perangkat lunak.
+
+Syarat Utama:
+
+Harus mencantumkan copyright asli dan pernyataan lisensi pada semua salinan atau versi turunan dari perangkat lunak.
+
+Kompatibilitas Perubahan:
+
+Perubahan/modifikasi yang dilakukan dalam project ini kompatibel sepenuhnya dengan lisensi MIT.
+
+Tidak ada larangan terhadap pengembangan fitur baru, pengujian (black-box), dokumentasi ulang (UML), maupun penyebaran hasil studi usability.
+
+Etika Penggunaan:
+
+Penggunaan dan modifikasi dilakukan dengan niat edukatif.
+
+Semua perubahan tetap menghormati lisensi asli, mencantumkan nama pemilik lisensi, dan tidak menghilangkan hak cipta awal.
+
+✅ Kesimpulan:
+Perubahan dan pengembangan yang dilakukan dalam project ini sesuai dengan ketentuan lisensi MIT dan tidak melanggar etika pemanfaatan software open source.
